@@ -489,4 +489,4 @@ For new projects, use:
 
 ## License
 
-LGPL v3 — see [LICENSE.md](LICENSE.md).
+LGPL v3 — see [LICENSE.md](../LICENSE.md).
