@@ -3,8 +3,7 @@
 .AppleDouble
 .LSOverride
 
-# Unity asset meta files (regenerated automatically on package import)
-*.meta
+
 
 # Unity generated
 Library/
