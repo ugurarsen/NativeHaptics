@@ -90,7 +90,7 @@ Bu kadar. Ayrıntılı kullanım örnekleri, uyumluluk katmanları ve platforma 
 
 Ayrıntılı API referansı, kullanım örnekleri, platform davranış notları, geçiş (migration) rehberi ve uyumluluk katmanı dokümantasyonu için Unity Package Manager kartındaki **View documentation** düğmesini açın veya şuraya göz atın:
 
-[Documentation~/index.md](Documentation~/index.md)
+[Documentation~/index.tr.md](Documentation~/index.tr.md)
 
 ---
 

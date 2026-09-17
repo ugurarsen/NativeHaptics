@@ -1,5 +1,7 @@
 # Native Haptics
 
+🌐 **Languages:** English · [Türkçe](index.tr.md) · [Français](index.fr.md) · [Español](index.es.md) · [简体中文](index.zh-Hans.md)
+
 ![Cover Image](cover.png)
 
 [![openupm](https://img.shields.io/npm/v/com.ugurarsen.nativehaptics?label=openupm\&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.ugurarsen.nativehaptics/)
@@ -459,7 +461,7 @@ For new projects, use:
 # API Cheat Sheet
 
 | What you want           | Use                                       |
-| :---------------------- | :---------------------------------------- |
+| :---------------------- | :----------------------------------------- |
 | Selection feedback      | `PlayHapticType(HapticType.Selection)`    |
 | Success feedback        | `PlayHapticType(HapticType.Success)`      |
 | Warning feedback        | `PlayHapticType(HapticType.Warning)`      |

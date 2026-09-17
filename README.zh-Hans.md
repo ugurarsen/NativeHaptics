@@ -90,7 +90,7 @@ NativeHaptics.PlayHapticType(HapticType.Success);
 
 如需详细的 API 参考、使用示例、平台行为说明、迁移指南以及兼容层文档，请打开 Unity Package Manager 卡片中的 **View documentation** 按钮，或浏览：
 
-[Documentation~/index.md](Documentation~/index.md)
+[Documentation~/index.zh-Hands.md](Documentation~/index.zh-Hands.md)
 
 ---
 

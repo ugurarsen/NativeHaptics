@@ -90,7 +90,7 @@ C'est tout. Consultez la documentation intégrée au package (Documentation~) po
 
 Pour la référence API détaillée, des exemples d'utilisation, des notes sur le comportement par plateforme, le guide de migration et la documentation des couches de compatibilité, ouvrez le bouton **View documentation** dans la fiche du Unity Package Manager ou consultez :
 
-[Documentation~/index.md](Documentation~/index.md)
+[Documentation~/index.fr.md](Documentation~/index.fr.md)
 
 ---
 
