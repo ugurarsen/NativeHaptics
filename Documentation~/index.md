@@ -1,5 +1,7 @@
 # Native Haptics
 
+![Cover Image](cover.png)
+
 [![openupm](https://img.shields.io/npm/v/com.ugurarsen.nativehaptics?label=openupm\&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.ugurarsen.nativehaptics/)
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](../LICENSE.md)
 [![Unity](https://img.shields.io/badge/Unity-2019.4%2B-blue.svg)](https://unity.com/)
