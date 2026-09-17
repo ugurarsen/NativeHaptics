@@ -35,7 +35,7 @@ Open:
 Then paste:
 
 ```text
-https://github.com/ugurarsen/NativeHaptics.git?path=com.ugurarsen.nativehaptics
+https://github.com/ugurarsen/NativeHaptics.git
 ```
 
 ### `Packages/manifest.json`
@@ -45,7 +45,7 @@ Add:
 ```json
 {
   "dependencies": {
-    "com.ugurarsen.nativehaptics": "https://github.com/ugurarsen/NativeHaptics.git?path=com.ugurarsen.nativehaptics"
+    "com.ugurarsen.nativehaptics": "https://github.com/ugurarsen/NativeHaptics.git"
   }
 }
 ```
