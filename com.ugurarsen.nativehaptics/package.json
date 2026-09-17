@@ -1,0 +1,26 @@
+{
+  "name": "com.ugurarsen.nativehaptics",
+  "version": "1.0.0",
+  "displayName": "Native Haptics",
+  "description": "Modern, zero-dependency native haptics for Unity. Drop-in replacement for NiceVibrations without native .so/.a binaries.",
+  "unity": "2019.4",
+  "author": {
+    "name": "Ugur Arsen"
+  },
+  "license": "LGPL-3.0-only",
+  "keywords": [
+    "haptic",
+    "vibration",
+    "haptics",
+    "feedback",
+    "ios",
+    "android"
+  ],
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Basic haptics demo",
+      "path": "Samples~/DemoScene"
+    }
+  ]
+}

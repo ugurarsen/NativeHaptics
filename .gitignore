@@ -1,0 +1,48 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Unity asset meta files (regenerated automatically on package import)
+*.meta
+
+# Unity generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+sysinfo.txt
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity 3D specific
+Assets/AssetStoreTools*
+
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+*.ide-workspace
+*.code-workspace
+
+# Coverage
+coverage/
+*.lcov
+
+# Crash reports
+crashlytics-build.properties
